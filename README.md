@@ -1,5 +1,7 @@
-Impossible_Pack_For_Minecraft
+Impossible_Pack_For_Minecraft 
 By: Daplow
+
+Minecraft 1.21.10
 
 Datapack Changes:
 - Enchanted Diamond armor to zombie, drowned, husk, skeleton, bogged, stray, wither_skeleton
