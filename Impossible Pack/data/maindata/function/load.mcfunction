@@ -1,0 +1,1 @@
+say Datapack "IMPOSSIBLE PACK" Loaded Successfully!
